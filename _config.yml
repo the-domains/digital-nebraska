@@ -1,0 +1,28 @@
+name: Digital Nebraska
+favicon: null
+layout_spectrum: 0.8366922491695732
+typography_spectrum: 0.8289914077613503
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17554196482524276
+  lightness: 0.8207432131748646
+  saturation: 0.4263187402393669
+  rhythmicContrast: 0.28846262372098863
+purpose: []
